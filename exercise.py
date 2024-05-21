@@ -8,3 +8,5 @@ class Solution:
         else:
             k=len(x)
         return k
+    def second(self, s):
+        return len(s.split(" ")[-1])
