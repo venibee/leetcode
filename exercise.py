@@ -1,1 +1,3 @@
-print("somsingg")
+import math
+import os
+print("print")
